@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_home"
+        android:title="trang chủ"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/menu_item_stats"
+        android:title="thống kê"
+        android:icon="@drawable/ic_stats" />
+    <item
+        android:id="@+id/menu_item_transaction"
+        android:title="Giao Dịch"
+        android:icon="@drawable/ic_transaction" />
+    <item
+        android:id="@+id/menu_item_loan"
+        android:title="Khoản vay"
+        android:icon="@drawable/ic_loan" />
+    <item
+        android:id="@+id/menu_item_investment"
+        android:title="Đầu Tư"
+        android:icon="@drawable/ic_investment" />
+</menu>
